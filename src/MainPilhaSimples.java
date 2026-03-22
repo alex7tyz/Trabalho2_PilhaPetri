@@ -13,7 +13,7 @@ public class MainPilhaSimples {
 
         pilha.desempilhar();
 
-        System.out.println("Depois do pop:");
+        System.out.println("Depois de desempilhar:");
         System.out.println(pilha.mostrar());
 
         pilha.limpar();
